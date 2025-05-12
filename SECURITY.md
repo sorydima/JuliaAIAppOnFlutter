@@ -1,5 +1,5 @@
-# Security Policy
+# Политика безопасности
 
-## Reporting Vulnerabilities
+Если вы обнаружили уязвимость в JuliaAIAppOnFlutter, пожалуйста, сообщите об этом по адресу: security@example.com
 
-If you discover a security vulnerability, please report it by opening an issue on GitHub or contacting the maintainer directly. We appreciate your efforts to improve the security of our project.
+Мы постараемся ответить в течение 72 часов.

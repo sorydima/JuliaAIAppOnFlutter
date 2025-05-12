@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  flutter_app:
+    build: .
+    container_name: julia_ai_flutter
+    volumes:
+      - .:/app
+    ports:
+      - "8080:8080"
+    stdin_open: true
+    tty: true

@@ -1,3 +1,7 @@
-# Support
+# Поддержка
 
-For support, please open an issue on GitHub. We will do our best to assist you promptly.
+Если у вас возникли вопросы или проблемы:
+
+- Ознакомьтесь с [FAQ.md](FAQ.md)
+- Создайте Issue в GitHub
+- Напишите на support@example.com

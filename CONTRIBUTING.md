@@ -1,22 +1,11 @@
-# Contributing to JuliaAIAppOnFlutter
+# Вклад в проект
 
-Thank you for considering contributing to JuliaAIAppOnFlutter! We welcome contributions from the community to improve and expand the project.
+Спасибо за интерес к JuliaAIAppOnFlutter!
 
-## How to Contribute
+## Как внести изменения
 
-1. **Fork the repository** and create your branch from `main`.
-
-2. **Make your changes** with clear and descriptive commit messages.
-
-3. **Ensure code quality** by running:
-
-   ```bash
-   flutter analyze
-   flutter test
-   ```
-
-4. **Submit a pull request** with a detailed description of your changes.
-
-## Code of Conduct
-
-Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
+1. Сделайте форк проекта
+2. Создайте новую ветку: `git checkout -b my-feature`
+3. Внесите изменения и закоммитьте их: `git commit -am 'Add feature'`
+4. Отправьте изменения: `git push origin my-feature`
+5. Создайте Pull Request
