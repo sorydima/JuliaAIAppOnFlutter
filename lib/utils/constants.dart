@@ -39,25 +39,25 @@ const bool bottomMenuHideShow = true;
 const String firstMenu = "DashBoard";
 const String firsticon = "m1.svg";
 const bool firstMenuOpt = true;
-const String firstURL = "https://demo.magicproject.ai/dashboard/user";
+const String firstURL = "https://rechain.work/dashboard/user";
 
 // Second Menu
 const String secondMenu = "Voice with AI";
 const String secondicon = "m2.svg";
 const bool secondMenuOpt = true;
-const String secondURL = "https://demo.magicproject.ai/dashboard/user/openai/chat/ai-chat/ai_realtime_voice_chat";
+const String secondURL = "https://rechain.work/dashboard/user/openai/chat/ai-chat/ai_realtime_voice_chat";
 
 // Third Menu
 const String thirdMenu = "CODER";
 const String thirdicon = "m3.svg";
 const bool thirdMenuOpt = true;
-const String thirdURL = "https://demo.magicproject.ai/dashboard/user/openai/generator/ai_code_generator/workbook";
+const String thirdURL = "https://rechain.work/dashboard/user/openai/generator/ai_code_generator/workbook";
 
 // Fourth Menu
 const String fourthMenu = "AI Vision";
 const String fourthicon = "m4.svg";
 const bool fourthMenuOpt = true;
-const String forthURL = "https://demo.magicproject.ai/dashboard/user/openai/generator/ai_vision/workbook";
+const String forthURL = "https://rechain.work/dashboard/user/openai/generator/ai_vision/workbook";
 
 // Floating Menu configuration
 
@@ -69,25 +69,25 @@ const String floatingMenuIcon = "floating menu icon.svg";
 const String ffirstMenu = "AI Plagiarism";
 const String ffirsticon = "fm1.svg";
 const bool ffirstMenuOpt = true;
-const String ffirstURL = "https://demo.magicproject.ai/dashboard/user/openai/plagiarism";
+const String ffirstURL = "https://rechain.work/dashboard/user/openai/plagiarism";
 
 // Second Menu
 const String fsecondMenu = "AI Detector";
 const String fsecondicon = "fm2.svg";
 const bool fsecondMenuOpt = true;
-const String fsecondURL = "https://demo.magicproject.ai/dashboard/user/openai/detectaicontent";
+const String fsecondURL = "https://rechain.work/dashboard/user/openai/detectaicontent";
 
 // Third Menu
 const String fthirdMenu = "SEO Tools";
 const String fthirdicon = "fm3.svg";
 const bool fthirdMenuOpt = true;
-const String fthirdURL = "https://demo.magicproject.ai/dashboard/user/seo";
+const String fthirdURL = "https://rechain.work/dashboard/user/seo";
 
 // Fourth Menu
 const String ffourthMenu = "Brand Voice";
 const String ffourthicon = "fm4.svg";
 const bool ffourthMenuOpt = true;
-const String fforthURL = "https://demo.magicproject.ai/dashboard/user/brand";
+const String fforthURL = "https://rechain.work/dashboard/user/brand";
 
 const bool hideHeader = false;
 const bool hideFooter = false;
