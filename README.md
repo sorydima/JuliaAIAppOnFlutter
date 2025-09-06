@@ -2,9 +2,9 @@
 
 **Writer** is an AI-powered text generation app built using Flutter and Julia. It enables users to create high-quality content effortlessly through an intuitive interface.
 
-https://api.codemagic.io/apps/681b66c261fe3a0d9415a655/681b66c261fe3a0d9415a654/status_badge.svg
+https://api.codemagic.io/apps/68bc9e2865f8f08eb5eaffb1/68bc9e2865f8f08eb5eaffb0/status_badge.svg
 
-[![Codemagic build status](https://api.codemagic.io/apps/681b66c261fe3a0d9415a655/681b66c261fe3a0d9415a654/status_badge.svg)](https://codemagic.io/app/681b66c261fe3a0d9415a655/681b66c261fe3a0d9415a654/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/68bc9e2865f8f08eb5eaffb1/68bc9e2865f8f08eb5eaffb0/status_badge.svg)](https://codemagic.io/app/68bc9e2865f8f08eb5eaffb1/68bc9e2865f8f08eb5eaffb0/latest_build)
 
 ## ✨ Features
 
